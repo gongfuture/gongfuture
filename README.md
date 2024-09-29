@@ -28,12 +28,12 @@ Source repository: https://github.com/Xiaokang2022/Xiaokang2022
 
 <!-- https://github.com/kyechan99/capsule-render -->
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text=HI%20THERE&fontSize=90&fontAlign=50&fontAlignY=30&desc=I%20am%20gongfuture!&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&&section=header&text=HI%20THERE&fontSize=70&fontAlign=50&fontAlignY=30&desc=I%20am%20gongfuture!&descAlign=50&descSize=30&descAlignY=55&animation=twinkling" />
 </p>
 
 <!-- https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=25&pause=1000&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+GitHub+profile+page!;I+am+super+obsessed+with+programming!" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=20&pause=1000&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+GitHub+profile+page!;I+am+super+obsessed+with+programming!" />
 </p>
 
 <p align="center">
@@ -59,6 +59,7 @@ Source repository: https://github.com/Xiaokang2022/Xiaokang2022
 <a href="https://github.com/gongfuture"><img src="https://img.shields.io/badge/GitHub-gongfuture-blue?logo=github" /></a>
 <a href="https://space.bilibili.com/455044741"><img src="https://img.shields.io/badge/哔哩哔哩-洛初Official-pink?logo=bilibili" /></a>
 <a href="https://qm.qq.com/q/OfK3d9r6o2"><img src="https://img.shields.io/badge/QQ群-611124274-blue?logo=tencentqq" /></a>
+</br>
 <a href="https://wakatime.com/@gongfuture"><img src="https://wakatime.com/badge/user/84315656-fe81-4c4f-a80d-882b1b014178.svg" /></a>
 <!-- https://github.com/antonkomarev/github-profile-views-counter -->
 <img src="https://komarev.com/ghpvc/?username=gongfuture" />
@@ -66,5 +67,5 @@ Source repository: https://github.com/Xiaokang2022/Xiaokang2022
 
 <!-- https://github.com/kyechan99/capsule-render -->
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=footer&text=THE%20END&fontSize=90&fontAlign=50&fontAlignY=70&desc=Hope%20your%20program%20is%20bug-free!&descAlign=50&descSize=30&descAlignY=40&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&&section=footer&text=THE%20END&fontSize=70&fontAlign=50&fontAlignY=70&desc=Hope%20your%20program%20is%20bug-free!&descAlign=50&descSize=30&descAlignY=40&animation=twinkling" />
 </p>
